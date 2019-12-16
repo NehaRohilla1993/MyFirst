@@ -5,3 +5,14 @@ public static void main(String arg[])
   System.out.println("hiii.......bebo technologies");
 }
 }
+
+------------------
+
+------------------
+class sample
+{ 
+  public static void main(String arg[])
+  {
+      System.out.println("hello world !");
+   }
+}
