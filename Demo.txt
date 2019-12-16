@@ -1,0 +1,15 @@
+Sum of two numbers
+--------------------
+--------------------
+class Sum
+{
+  public static void main(String arg[])
+{
+  public void sum()
+ {
+    int a=10,b=56,c;
+    c=a+b;
+   System.out.println(c);
+ }
+}
+}
