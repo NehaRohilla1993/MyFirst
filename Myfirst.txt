@@ -1,2 +1,12 @@
-hi.....
 bebo techonologies
+bebo
+be extension be offsoure
+
+
+class sample
+{
+public static void main(String arg[])
+{
+   System.out.println("hi............bebo");
+}
+}
